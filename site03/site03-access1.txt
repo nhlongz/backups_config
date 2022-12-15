@@ -1,7 +1,7 @@
 
-Current configuration : 1073 bytes
+Current configuration : 1086 bytes
 !
-! Last configuration change at 03:19:10 UTC Mon Dec 12 2022
+! Last configuration change at 03:12:56 UTC Tue Dec 13 2022
 !
 version 15.2
 service timestamps debug datetime msec
@@ -86,5 +86,6 @@ line vty 0 4
  transport input ssh
 !
 !
+netconf-yang
 !
 end
