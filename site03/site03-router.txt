@@ -1,7 +1,6 @@
 
-Current configuration : 1020 bytes
+Current configuration : 960 bytes
 !
-! Last configuration change at 07:31:18 UTC Mon Dec 12 2022
 upgrade fpd auto
 version 15.2
 service timestamps debug datetime msec
